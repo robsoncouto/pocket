@@ -5,7 +5,7 @@ A detailed descripition of the code is available at:
 
 Portuguese:
 
-http://dragaosemchama.com.br/2016/09/backup-e-gravacao-de-memory-card-ps1/
+http://dragaosemchama.com/2016/09/backup-e-gravacao-de-memory-card-ps1/
 
 English:
 
